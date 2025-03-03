@@ -1,0 +1,28 @@
+[
+  {
+    "input_length": 20,
+    "value": 16,
+    "remainder": 1,
+    "cuts": [
+      { "length": 7, "count": 2, "piece_value": 6, "value": 12 },
+      { "length": 5, "count": 1, "piece_value": 4, "value": 4 }
+    ]
+  },
+  {
+    "input_length": 30,
+    "value": 24,
+    "remainder": 2,
+    "cuts": [
+      { "length": 7, "count": 4, "piece_value": 6, "value": 24 }
+    ]
+  },
+  {
+    "input_length": 40,
+    "value": 34,
+    "remainder": 0,
+    "cuts": [
+      { "length": 7, "count": 5, "piece_value": 6, "value": 30 },
+      { "length": 5, "count": 1, "piece_value": 4, "value": 4 }
+    ]
+  }
+]

@@ -1,0 +1,7 @@
+3, 2
+5, 4
+7, 6
+
+# ./rodcut piece_values.txt
+# ./rodcut piece_values.txt < rod_lengths.txt
+# cat rod_lengths.txt | ./rodcut piece_values.txt
